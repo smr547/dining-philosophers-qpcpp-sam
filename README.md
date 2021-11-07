@@ -16,6 +16,6 @@ All code based on exampes code written by [Quantum Leaps](https://www.state-mach
 * This project uses the [Quantum Leaps Real Time Embedded Framework (RTEF) QP/C++](https://www.state-machine.com/qpcpp/)
 * All code for the project is store in the [model file](./dpp.qm)
 * Code is written to the [QP/C++ API](https://www.state-machine.com/qpcpp/api.html)
-* C++ application code (the ``dpp.ino`` file) is generated using the [qm modelling tool](https://www.state-machine.com/products/qm/)
+* C++ application code (the ``./dpp_bsp/dpp_dpp_bsp.ino`` and related files) are generated using the [qm modelling tool](https://www.state-machine.com/products/qm/)
 * Generated code is compiled and uploaded using the [Arduino IDE](https://www.arduino.cc/en/software)
 
